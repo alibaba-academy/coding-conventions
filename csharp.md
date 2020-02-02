@@ -1,6 +1,6 @@
 
 ### Naming best practice in c#
-```
+
 #### 1. Do use PascalCasing for class names and method names:
 
 ```csharp
@@ -15,7 +15,6 @@ public class ClientActivity
     //...
   }
 }
-```
 
 ***Why: consistent with the Microsoft's .NET Framework and easy to read.***
 
