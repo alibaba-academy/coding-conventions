@@ -1,12 +1,4 @@
 
-
-### Class Fields:
-
-```c#
-class Foo {
-    private int fooBar;
-}
-```
 ### Naming best practice in c#
 ```
 #### 1. Do use PascalCasing for class names and method names:
