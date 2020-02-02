@@ -15,6 +15,7 @@ public class ClientActivity
     //...
   }
 }
+```
 
 ***Why: consistent with the Microsoft's .NET Framework and easy to read.***
 
